@@ -44,6 +44,13 @@
   <li>Пин 10 на Raspberry Pi Pico -> D4 на дисплея</li>
 </ul>
 
+<br>
+<h3>Пинове на DHT11 сензора:</h3>
+<ul>
+  <li>Пин 18 на Raspberry Pi Pico -> + на DHT11</li>
+  <li>Пин 19 на Raspberry Pi Pico -> out на DHT11</li>
+</ul>
+
 
 
 
