@@ -14,7 +14,8 @@
 <h3>Инструкции:<h3/>
 Свържете сензора DHT11 и 7-сегментния дисплей към Pico според пиновата диаграма:
 <picture>
-  <img alt="Пинова диаграма" src="https://ibb.co/DrKy1rP">
+  <img alt="Пинова диаграма" src="https://i.ibb.co/jJ428J9/Shema.jpg">
+  ![alt text](https://i.ibb.co/jJ428J9/Shema.jpg)
 </picture>
 
 <h3>Свалете кода като използвате следната команда:</h3>
