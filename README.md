@@ -15,23 +15,26 @@
 Свържете сензора DHT11 и 7-сегментния дисплей към Pico според пиновата диаграма:
   
 <picture>
-  ![alt text](https://i.ibb.co/jJ428J9/Shema.jpg)
+  <img alt="" src="https://i.ibb.co/jJ428J9/Shema.jpg">
 </picture>
 Пиновете на моя дисплей са:
 
 <picture>
-  ![alt text](https://i.ibb.co/8c6Q7N9/4d7s.jpg)
+    <img alt="" src="https://i.ibb.co/8c6Q7N9/4d7s.jpg">
+  
 </picture>
 
 Използвах модифицирания вариант на DHT11, но можете да използвате и стандартния като пропуснете третия пин.
 
 <picture>
-  ![alt text](https://i.ibb.co/w4ZvPB8/dht11.jpg)
+   <img alt="" src="https://i.ibb.co/8c6Q7N9/4d7s.jpg">
 </picture>
 
 
 <h3>Свалете кода като използвате следната команда:</h3>
-``` git clone https://github.com/kele6man/Thermometer.git ```
+```
+git clone https://github.com/kele6man/Thermometer.git
+```
 
 Температурата ще бъде показана на 7-сегментния дисплей в градуси по Целзий. Цифрите се актуализират на всеки 500 милисекунди.
 
