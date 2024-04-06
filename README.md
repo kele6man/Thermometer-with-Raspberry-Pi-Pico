@@ -49,6 +49,7 @@
 <ul>
   <li>Пин 18 на Raspberry Pi Pico -> + на DHT11</li>
   <li>Пин 19 на Raspberry Pi Pico -> out на DHT11</li>
+  <li>Пин 38(GND) на Raspberry Pi Pico -> - на DHT11</li>
 </ul>
 
 
