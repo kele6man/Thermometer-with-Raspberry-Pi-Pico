@@ -6,22 +6,29 @@
 <br>
 
 <h3>Сегментите (A - G, DP):</h3>
+<ul>
+  <li>Пин 2 на Raspberry Pi Pico -> A сегмент на дисплея</li>
+  <li>Пин 3 на Raspberry Pi Pico -> B сегмент на дисплея</li>
+  <li>Пин 4 на Raspberry Pi Pico -> C сегмент на дисплея</li>
+  <li>Пин 5 на Raspberry Pi Pico -> D сегмент на дисплея</li>
+  <li>Пин 6 на Raspberry Pi Pico -> E сегмент на дисплея</li>
+  <li>Пин 7 на Raspberry Pi Pico -> F сегмент на дисплея</li>
+  <li>Пин 8 на Raspberry Pi Pico -> G сегмент на дисплея</li>
+  <li>Пин 9 на Raspberry Pi Pico -> DP сегмент на дисплея</li>
+</ul>
 
-Пин 2 на Raspberry Pi Pico -> A сегмент на дисплея
-Пин 3 на Raspberry Pi Pico -> B сегмент на дисплея
-Пин 4 на Raspberry Pi Pico -> C сегмент на дисплея
-Пин 5 на Raspberry Pi Pico -> D сегмент на дисплея
-Пин 6 на Raspberry Pi Pico -> E сегмент на дисплея
-Пин 7 на Raspberry Pi Pico -> F сегмент на дисплея
-Пин 8 на Raspberry Pi Pico -> G сегмент на дисплея
-Пин 9 на Raspberry Pi Pico -> DP сегмент на дисплея
 <br>
 <h3>Цифрите (D1 - D4):</h3>
+<ul>
+  <li>Пин 13 на Raspberry Pi Pico -> D1 на дисплея</li>
+  <li>Пин 12 на Raspberry Pi Pico -> D2 на дисплея</li>
+  <li>Пин 11 на Raspberry Pi Pico -> D3 на дисплея</li>
+  <li>Пин 10 на Raspberry Pi Pico -> D4 на дисплея</li>
+</ul>
 
-Пин 13 на Raspberry Pi Pico -> D1 на дисплея
-Пин 12 на Raspberry Pi Pico -> D2 на дисплея
-Пин 11 на Raspberry Pi Pico -> D3 на дисплея
-Пин 10 на Raspberry Pi Pico -> D4 на дисплея
+
+
+
 
 Този код показва текущата температура на 7-сегментен дисплей, свързан към дъска Raspberry Pi Pico. Датчик DHT11 измерва температурата и изпраща данни до Pico платката, който след това актуализира дисплея.
 
